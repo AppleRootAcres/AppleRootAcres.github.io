@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>ApplerootAcres-website</title>
+        
+        <!--Soooo, I can't figure out how to see this code as a website intstead of just as code...:|-->
+        <style>
+         .aplrtacrs {
+            font-family:fantasy; color:rgb(102,0,102); font-size:50px;
+            
+            }
+         body {
+            font-size:14px;
+            
+            }
+         
+        </style>
+    </head>
+    <body>
+    <h1 class="aplrtacrs">Welcome to Appleroot Acres</h1>
+    <h3>feel free to check out our youtube channel!</h3>
+    <a href="https://www.youtube.com/channel/UC2ijTZJCtquLYVg1lBY391A">Appleroot Acres</a>
+    
+       
+    </body>
+</html>
+
